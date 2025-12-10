@@ -1,0 +1,8 @@
+torch==2.1.2
+torchaudio==2.1.2
+whisperx @ git+https://github.com/m-bain/whisperx.git
+pyannote.audio==2.1.2
+transformers==4.45.2
+accelerate==0.33.0
+soundfile
+ffmpeg-python
